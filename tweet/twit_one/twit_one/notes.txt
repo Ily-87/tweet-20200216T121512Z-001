@@ -1,0 +1,9 @@
+Consumer Key (API Key)	        WXZeQYUF0pMkzCWZvSmLfr6tT
+
+Consumer Secret (API Secret)	vZcgXztTKwjp24Qg32xNU99QeiMc55IVDKj1zn8eyPCUfMYft4
+
+Access Token	                104185612-ObgZvBK6MIGdgigdpdN49VQSyymtTdEsGxuICFvA
+
+Access Token Secret	            yWtBbifplYR4wUox9uxBrArWjceYaSS5lFH7iyxF4O4fq
+
+
